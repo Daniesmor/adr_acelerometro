@@ -1,0 +1,35 @@
+02/07/2025 (10:41)
+
+--- CALIBRACIÓN COMPLETA ---
+
+>>> Parámetros del Acelerómetro:
+accel_bias_x = -0.131577;
+accel_bias_y = -0.088531;
+accel_bias_z = -0.056684;
+accel_scale_x = 0.088002;
+accel_scale_y = 0.080705;
+accel_scale_z = 0.080551;
+
+>>> Parámetros del Giroscopio (solo bias):
+gyro_bias_x = 0.003922;
+gyro_bias_y = -0.002231;
+gyro_bias_z = -0.002961;
+
+
+02/07/2025 (10:47)
+
+--- CALIBRACIÓN COMPLETA ---
+
+>>> Parámetros del Acelerómetro:
+accel_bias_x = -0.132737;
+accel_bias_y = -0.088289;
+accel_bias_z = -0.057442;
+accel_scale_x = 0.088116;
+accel_scale_y = 0.080719;
+accel_scale_z = 0.080651;
+
+>>> Parámetros del Giroscopio (solo bias):
+gyro_bias_x = 0.004298;
+gyro_bias_y = -0.002243;
+gyro_bias_z = -0.003181;
+
